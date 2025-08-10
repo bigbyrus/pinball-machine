@@ -73,6 +73,7 @@ An Arduino Mega 2560 implements the game's control loop. The machine automatical
 ### Scoring Circuits
 - **IR sensor circuits**
 <img width="317" height="210" alt="Screenshot 2025-08-09 172204" src="https://github.com/user-attachments/assets/e682fe37-d586-48d7-a5cd-d91e2bb1092e" />
+
 - **Piezoelectric bumper circuit**:
   - Piezo signal buffered by LM358P Op-Amp (low output impedance)
   - Buffered signal to Arduino interrupt pin
@@ -81,10 +82,10 @@ An Arduino Mega 2560 implements the game's control loop. The machine automatical
 
 ### Actuator Circuits
 - **DC/Servo motor**: Powered via MOSFET with diode protection, using PWM from Arduino
-<img width="569" height="497" alt="Screenshot 2025-08-09 173259" src="https://github.com/user-attachments/assets/301c071b-6133-4bf9-95f1-ef4d3b9ce544" />
+<img width="200" height="200" alt="Screenshot 2025-08-09 173259" src="https://github.com/user-attachments/assets/301c071b-6133-4bf9-95f1-ef4d3b9ce544" />
 
 - **Solenoid Circuit**: Controlled via Arduino PWM
-<img width="543" height="500" alt="Screenshot 2025-08-09 173821" src="https://github.com/user-attachments/assets/aaea73eb-6282-42d1-8789-71f20b9f95a8" />
+<img width="200" height="200" alt="Screenshot 2025-08-09 173821" src="https://github.com/user-attachments/assets/aaea73eb-6282-42d1-8789-71f20b9f95a8" />
 
 ### 7-segment Display Circuit
 <img width="529" height="291" alt="Screenshot 2025-08-09 173951" src="https://github.com/user-attachments/assets/2f2e7e9e-a63e-4b34-97e1-b9d69fc9dba8" />
