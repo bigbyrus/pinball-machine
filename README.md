@@ -82,6 +82,7 @@ An Arduino Mega 2560 implements the game's control loop. The machine automatical
 ### Actuator Circuits
 - **DC/Servo motor**: Powered via MOSFET with diode protection, using PWM from Arduino
 <img width="569" height="497" alt="Screenshot 2025-08-09 173259" src="https://github.com/user-attachments/assets/301c071b-6133-4bf9-95f1-ef4d3b9ce544" />
+
 - **Solenoid Circuit**: Controlled via Arduino PWM
 <img width="543" height="500" alt="Screenshot 2025-08-09 173821" src="https://github.com/user-attachments/assets/aaea73eb-6282-42d1-8789-71f20b9f95a8" />
 
