@@ -47,25 +47,7 @@ An Arduino Mega 2560 implements the game's control loop. The machine automatical
 - **Actuator Playfield Effects**
   - **DC motor** spins a basketball obstacle
   - **Servo motor** acts as a gate to start the game
-  - **Solenoid** facilitates bumper movement when triggered by piezoelectric device 
-
----
-
-## Hardware Used
-- **Arduino** (x1)
-- **IR LEDs** (x4)
-- **Phototransistors** (x4)
-- **Piezoelectric sensor** (x2)
-- **LM358P Op-Amp** (x1)
-- **N-channel MOSFET** (x5)
-- **Solenoid** (x3)
-- **Power resistor** (x4)
-- **Electrolytic capacitor** (x2)
-- **DC motor** (x1)
-- **Servo motor** (x1)
-- **Push buttons** (x3)
-- **Multiple power supplies**
-- **Wood and 3D printed plastic** for structure and components
+  - **Solenoid** facilitates bumper movement when triggered by piezoelectric device
 
 ---
 
